@@ -1,2 +1,2 @@
 # RLadiesResistenciaCorrientes-Resources
-Este repositorio contendrá las presentaciones de los meetups organizados por RLadiesRciaCtes.
+Este repositorio contendrá las presentaciones de los meetups organizados por RLadiesRciaCtes. Hasta ahora, hemos realizado dos meetups, en el primero se presentó la comunidad RLadiesGlobal, luego RLadiesRciaCtes, se dió a conocer R, su historia y aplicaciones. En el segundo meetup se dictó un taller inicial de R. En Octubre celebraremos nuestro tercer meetup sobre Visualización de datos con ggplot2.
